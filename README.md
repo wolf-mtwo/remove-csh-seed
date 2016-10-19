@@ -36,3 +36,6 @@ PUT **/v1/users/:user_id** _OBJECT_
 
 POST **/p1/files** *excel*
 Form ['file_name']
+
+## License
+[The MIT License](LICENSE.md)
