@@ -4,6 +4,12 @@
 
 Projects runs with entity framework.
 
+
+## test request
+
+http://localhost:????/api/main
+
+
 ## services resume
 
 Base URL **"http://localhost:????/api"**
